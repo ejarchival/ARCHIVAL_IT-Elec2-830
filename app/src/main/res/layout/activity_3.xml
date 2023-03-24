@@ -47,5 +47,6 @@
         android:layout_alignRight="@+id/textView4"
         android:layout_alignParentBottom="true"
         android:layout_marginBottom="245dp"
+        android:background="#47A84B"
         android:text="Send" />
 </RelativeLayout>
